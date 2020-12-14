@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Igor Moreira Alves</h1>
-<h3 align="center">Back-end developer</h3>
+<h3 align="center">Apaixonado pela área de TI, estou em busca de oportunidade de trabalhar como desenvolvedor back-end, e venho buscando cada vez mais aprendizado na área. Tenho conhecimentos intermediário nas linguagens Java e Python, já desenvolvi uma aplicação cliente/servidor em Java no meu antigo emprego, na Newgen Soluções onde fiquei de 2015 até 2020, focado na área de help-desk como a principal função, e em algumas ocasiões como analista de sistemas, desenvolvedor Java, supervisão de equipes, administração em banco de dados, implantação de sistemas, etc.
+Atualmente trabalho como Analista de Sistema na Callink. Antes de entrar no mundo da TI morei até aos 16 anos na área rural e fui estagiário na Caixa Econômica.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alves-dev&label=Profile%20views&color=0e75b6&style=flat" alt="alves-dev" /> </p>
 
