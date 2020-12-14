@@ -5,11 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alves-dev" alt="alves-dev" /></a> </p>
 
-- 🔭 I’m currently working on [teste](bla)
+- 🔭 I am currently working as [Analista de Sistemas](https://www.callink.com.br/)
+
+- 🌱 I’m currently learning **Python**
+
+- 👨‍💻 All of my projects are available at [https://github.com/alves-dev?tab=repositories](https://github.com/alves-dev?tab=repositories)
+
+- 📫 How to reach me **alvesmoreiraigor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/igor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="igor" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/igor-moreira-65941415b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="igor-moreira-65941415b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
