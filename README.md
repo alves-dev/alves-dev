@@ -12,7 +12,9 @@
 
 ###
 
-<p align="left">Iniciei minha carreira na área trabalhando em uma empresa que desenvolve um ERP, la trabalhei por 5 anos, como principal atividade sendo o suporte aos clientes, foi onde comecei a estudar programação e a banco de dados, aprende sql, a realizar levantamento de requisitos e por ultimo liderava o time de suporte. Nesse mesmo período iniciei a minha formação em SI na Pitágoras.<br>Em seguida trabalhei como suporte por mais 1 de um ano em outra empresa onde lidava com servidores Linux e Windows, servidores web Apache e WildFly, banco de  SQL Server<br>Agora por último a mais de 2 anos com desenvolvimento de API com Java usando Spring Boot, e liderando o time de desenvolvimento Java, fazemos uso de Redis para cache, Elasticsearch para centralizar logs, pipelines com GitLab, AWS como a principal cloud, la utilizamos serviços como, ECS, S3, EC2, RDS, CodeArtifact, CloudFormation dentre outros; geralmente gerenciados por mim.</p>
+<p align="left">Com mais de dez anos de experiência profissional, destes mais de 3 sendo desenvolvedor Java; minha trajetória tem sido marcada pela liderança técnica e inovação em desenvolvimento de software. Minha atuação no momento se divide em criação e aprimoramento de APIs em Java, utilizando Spring Boot, na liderança do time de desenvolvimento e na automação e criação de pipelines assim como a manutenção dos ambientes.
+
+Liderando a implementação de gerenciamento de identidade, sendo uma solução interna e contribuindo significativamente para a migração de uma arquitetura orientada a micro serviços, destaco-me pelo forte conhecimento em Spring Boot e DevOps, sempre comprometido com a excelência técnica; além da capacidade de simplificar rotinas de monitoramento. A colaboração com a equipe na padronização de bibliotecas internas com foco em otimizar processos e apoiar o crescimento dos desenvolvedores. Estou constantemente em busca de novos desafios que contribuam para o avanço da minha expertise e sucesso.</p>
 
 ###
 
@@ -21,9 +23,6 @@
 ###
 
 <div align="center">
-  <a href="igormoreiraalves" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
   <a href="alvesmoreiraigor@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
